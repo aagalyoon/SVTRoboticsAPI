@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F9cS8aXae4ZAAfZWVlnYWrzcZTOTcLIVll9mhBHKlTg=",
+  "Source": "RobotRoutingApi",
+  "BasePath": "_content/RobotRoutingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
